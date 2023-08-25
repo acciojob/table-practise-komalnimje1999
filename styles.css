@@ -2,12 +2,12 @@
 caption{
 	justify-content: center;
 }
-thead th{
+thead, th{
 	text-transform : Uppercase;
 	border : 1px solid black;
 	background-color : yellow;
 }
-tbody tr{
+tbody,tr, td{
 	border : 1px solid black;
 	background-color : yellow;
 }
